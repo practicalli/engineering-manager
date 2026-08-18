@@ -1,13 +1,13 @@
 ---
-# Practicalli book-name
-site_name: Practicalli book-name
-site_url: https://practical.li/book-name
-site_description: Practical guide to
+# Practicalli Engineering Manager
+site_name: Practicalli Engineering Manager
+site_url: https://practical.li/engineering-manager
+site_description: Practical guide to managing software engineering teams as an engineering manager
 site_author: Practicalli
 site_org: https://practical.li/
 copyright: Copyright &copy 2023  Practicali <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-repo_url: https://github.com/practicalli/book-name/
-edit_uri: https://github.com/practicalli/book-name/edit/main/docs/
+repo_url: https://github.com/practicalli/engineering-manager/
+edit_uri: https://github.com/practicalli/engineering-manager/edit/main/docs/
 
 # Deployment
 # remote_name: origin

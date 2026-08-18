@@ -1,4 +1,4 @@
-# Practicalli book-name
+# Practicalli engineering-manager
 
 ```none
 ██████╗ ██████╗  █████╗  ██████╗████████╗██╗ ██████╗ █████╗ ██╗     ██╗     ██╗
@@ -17,12 +17,12 @@
 
 ## Book status
 
-[![MegaLinter](https://github.com/practicalli/book-name/actions/workflows/megalinter.yaml/badge.svg)](https://github.com/practicalli/book-name/actions/workflows/megalinter.yaml)[![Publish Book](https://github.com/practicalli/book-name/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/book-name/actions/workflows/publish-book.yaml)
-[![Publish Book](https://github.com/practicalli/book-name/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/book-name/actions/workflows/publish-book.yaml)
-[![pages-build-deployment](https://github.com/practicalli/book-name/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/practicalli/book-name/actions/workflows/pages/pages-build-deployment)
+[![MegaLinter](https://github.com/practicalli/engineering-manager/actions/workflows/megalinter.yaml/badge.svg)](https://github.com/practicalli/engineering-manager/actions/workflows/megalinter.yaml)[![Publish Book](https://github.com/practicalli/engineering-manager/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/engineering-manager/actions/workflows/publish-book.yaml)
+[![Publish Book](https://github.com/practicalli/engineering-manager/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/engineering-manager/actions/workflows/publish-book.yaml)
+[![pages-build-deployment](https://github.com/practicalli/engineering-manager/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/practicalli/engineering-manager/actions/workflows/pages/pages-build-deployment)
 
-[![Ideas & Issues](https://img.shields.io/github/issues/practicalli/clojure?label=content%20ideas%20and%20issues&logoColor=green&style=for-the-badge)](https://github.com/practicalli/book-name/issues)
-[![Pull requests](https://img.shields.io/github/issues-pr/practicalli/clojure?style=for-the-badge)](https://github.com/practicalli/book-name/pulls)
+[![Ideas & Issues](https://img.shields.io/github/issues/practicalli/clojure?label=content%20ideas%20and%20issues&logoColor=green&style=for-the-badge)](https://github.com/practicalli/engineering-manager/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/practicalli/clojure?style=for-the-badge)](https://github.com/practicalli/engineering-manager/pulls)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/practicalli/clojure?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/practicalli/clojure?style=for-the-badge&label=github%20contributors)
@@ -41,10 +41,10 @@ Issues and pull requests are most welcome although it is the maintainers discret
 
 Please read the [detailed Practicalli contributing page](https://practical.li/contributing/) before raising an issue or pull request to avoid disappointment.
 
-* [Current Issues](https://github.com/practicalli/book-name/issues)
-* [Current pull requests](https://github.com/practicalli/book-name/pulls)
+* [Current Issues](https://github.com/practicalli/engineering-manager/issues)
+* [Current pull requests](https://github.com/practicalli/engineering-manager/pulls)
 
-By submitting content ideas and corrections you are agreeing they can be used in any work by Practicalli under the [Creative Commons Attribution ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution will be detailed via [GitHub contributors](https://github.com/practicalli/book-name/graphs/contributors).
+By submitting content ideas and corrections you are agreeing they can be used in any work by Practicalli under the [Creative Commons Attribution ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution will be detailed via [GitHub contributors](https://github.com/practicalli/engineering-manager/graphs/contributors).
 
 
 ## Sponsor Practicalli
@@ -54,11 +54,6 @@ By submitting content ideas and corrections you are agreeing they can be used in
 All sponsorship funds are used to support the continued development of [Practicalli series of books and videos](https://practical.li/), although most work is done at personal cost and time.
 
 Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.br/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-johnny#sponsors) for your continued support
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=practicalli/book-name&type=Date)](https://star-history.com/#practicalli/book-name&Date)
 
 
 ## GitHub Actions

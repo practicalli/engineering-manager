@@ -1,12 +1,12 @@
-# Practicalli book-name
+# Practicalli engineering-manager
 
 Add overview and purpose of book.
 
 ## Practicalli Resources
 
-[:fontawesome-solid-book-open: Practicalli Clojure CLI Config - additional tools via aliases](/book-name/clojure-cli/practicalli-config/){target=_blank .md-button}
+[:fontawesome-solid-book-open: Practicalli Clojure CLI Config - additional tools via aliases](/engineering-manager/clojure-cli/practicalli-config/){target=_blank .md-button}
 
-[:fontawesome-solid-book-open: Clojure Aware Editors](/book-name/clojure-editors){target=_blank .md-button}
+[:fontawesome-solid-book-open: Clojure Aware Editors](/engineering-manager/clojure-editors){target=_blank .md-button}
 [:fontawesome-brands-youtube: Practicalli YouTube channel](https://youtube.co/practicalli){target=_blank .md-button}
 
 
