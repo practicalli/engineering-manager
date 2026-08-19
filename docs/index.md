@@ -1,13 +1,12 @@
-# Practicalli engineering-manager
+# Become an effective Engineering Manager
 
-Add overview and purpose of book.
+A practical guide to becoming an effective manager of software engineering teams.
 
-## Practicalli Resources
+An effective manager supports the growth of each individual they are responsible for, within the context of supporting a high performing team that effectively contributes to the goals of the organisation they are within.
 
-[:fontawesome-solid-book-open: Practicalli Clojure CLI Config - additional tools via aliases](/engineering-manager/clojure-cli/practicalli-config/){target=_blank .md-button}
+The role is challenging and when done well is highly rewarding.
 
-[:fontawesome-solid-book-open: Clojure Aware Editors](/engineering-manager/clojure-editors){target=_blank .md-button}
-[:fontawesome-brands-youtube: Practicalli YouTube channel](https://youtube.co/practicalli){target=_blank .md-button}
+!!! INFO "Engineering Playbook provides guides on specific tasks"
 
 
 ## Navigate the book
@@ -30,8 +29,6 @@ Use the search box to quickly find a specific topic
 [![Sponsor practicalli-johnny](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png){align=left loading=lazy}](https://github.com/sponsors/practicalli-johnny/)
 
 All sponsorship funds are used to support the continued development of [:fontawesome-solid-book-open: Practicalli series of books and videos](https://practical.li/){target=_blank}, although most work is done at personal cost and time.
-
-Thanks to [:globe_with_meridians: Cognitect](https://www.cognitect.com/){target=_blank}, [:globe_with_meridians: Nubank](https://nubank.com.br/){target=_blank} and a wide range of other [:fontawesome-brands-github: sponsors](https://github.com/sponsors/practicalli-johnny#sponsors){target=_blank} from the Clojure community for your continued support
 
 
 ## Creative commons license
