@@ -10,5 +10,6 @@
 - build(make): 🔧 practicalli tasks for zensical project
 - feat(zensical): 💄 update to zensical in theme overrides
 - build(zensical): 🔧 set project name and document in readme
+- docs(intro): ✏️ update navigation keys information
 
 ### Changed
